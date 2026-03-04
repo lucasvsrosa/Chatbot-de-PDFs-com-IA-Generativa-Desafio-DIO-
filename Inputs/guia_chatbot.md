@@ -1,0 +1,1 @@
+Guia do Chatbot de PDFs\n\nEste chatbot foi criado para o desafio da DIO.\nEle utiliza LangChain e OpenAI para processar documentos.\n\n## Funcionalidades\n- Carregamento de PDFs\n- Busca vetorial com FAISS\n- Respostas contextuais baseadas em RAG\n\n## Benefícios\n- Ideal para revisões bibliográficas de TCC.\n- Conecta ideias entre diferentes textos automaticamente.
