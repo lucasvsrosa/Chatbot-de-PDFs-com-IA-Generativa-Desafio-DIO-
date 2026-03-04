@@ -55,7 +55,7 @@ Para rodar o chatbot localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/lucasvsrosa/Chatbot-de-PDFs-com-IA-Generativa-Desafio-DIO-
     cd chatbot-pdf-dio
     ```
 
