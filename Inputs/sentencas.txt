@@ -1,0 +1,10 @@
+O Chatbot de PDFs é uma ferramenta poderosa para estudantes e pesquisadores.
+Ele utiliza embeddings para transformar texto em vetores numéricos.
+A busca vetorial permite encontrar informações semanticamente relacionadas, mesmo sem palavras-chave exatas.
+O LangChain é um framework que facilita a criação de aplicações com modelos de linguagem.
+A arquitetura RAG (Retrieval-Augmented Generation) combina recuperação de dados com geração de texto.
+Este projeto foi desenvolvido como parte de um desafio da DIO para explorar IA Generativa.
+O objetivo principal é facilitar a revisão de artigos científicos para TCCs.
+Os usuários podem carregar múltiplos PDFs e fazer perguntas contextuais.
+A resposta gerada é fundamentada exclusivamente nos documentos fornecidos.
+Isso reduz alucinações da IA e aumenta a confiabilidade das informações.
